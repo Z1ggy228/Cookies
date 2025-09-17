@@ -1,2 +1,2 @@
 # Cookies
-https://z1ggy228.github.io/Cookies
+[Посмотреть демо](https://z1ggy228.github.io/Cookies)
